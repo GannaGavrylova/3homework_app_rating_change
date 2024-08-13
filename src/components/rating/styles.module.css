@@ -1,0 +1,21 @@
+.image_container {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.rating_container > button {
+  padding: 40px;
+  margin-left: 20px;
+  border: none;
+  background-color: blue;
+  color: azure;
+  font-size: 22px;
+  font-weight: 600;
+  border-radius: 8px;
+  box-shadow: 8px 7px 10px rgba(102, 36, 116, 0.3);
+  cursor: pointer;
+  width: 250px;
+}
